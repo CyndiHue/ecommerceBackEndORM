@@ -7,6 +7,14 @@ class ProductTag extends Model {}
 ProductTag.init(
   {
     // define columns
+    
+    product_id: {
+
+    },
+    tag_id: {
+
+    }
+
   },
   {
     sequelize,
