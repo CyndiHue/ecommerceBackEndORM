@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "seed": "node ./seeds/index.js",
+    "seed2": "node ./seeds/category-seeds.js",
+    "seed3": "node ./seeds/product-seeds.js",
+    "seed4": "node ./seeds/product-tag-seeds.js",
+    "seed5": "node ./seeds/tag-seeds.js"
   },
   "repository": {
     "type": "git",
