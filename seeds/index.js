@@ -24,3 +24,8 @@ const seedAll = async () => {
 };
 
 seedAll();
+
+// SELECT * FROM ecommerce_db.tag;
+// SELECT * FROM ecommerce_db.product_tag;
+// SELECT * FROM ecommerce_db.product;
+// SELECT * FROM ecommerce_db.category;
