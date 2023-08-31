@@ -8,6 +8,8 @@
 
  ## Usage
   demonstrate usage of backend servers and code
+  ![image](https://github.com/CyndiCodes/ecommerceBackEnd/assets/135991739/b8fba5f6-97ee-4b5e-841e-6142a5b99225)
+
 
  ## Contributions
   contact me directly via email
