@@ -1,4 +1,4 @@
-# ecommerceBackEnd
+# ecommerceBackEndORM
 
  ## Project Description
   this interface will demonstrate how to use a backend server like insomnia to view, update, and delete in an SQL database.
