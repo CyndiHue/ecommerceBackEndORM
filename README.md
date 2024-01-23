@@ -20,9 +20,9 @@
  
  ## Resources:
 
- https://www.npmjs.com/package/mysql2
- https://www.npmjs.com/package/sequelize
- https://www.npmjs.com/package/dotenv
+ mysql2 - https://www.npmjs.com/package/mysql2
+ sequelize - https://www.npmjs.com/package/sequelize
+ env - https://www.npmjs.com/package/dotenv
  
  ## Questions? Contact Me:
  
