@@ -1,7 +1,15 @@
 # ecommerceBackEndORM
 
  ## Description
-  this interface will demonstrate how to use a backend server like insomnia to view, update, and delete in an SQL database.
+  this interface will demonstrate how to use a backend server like insomnia to view, update, and delete in an MySQL database.
+
+  Technologies include:
+  MySQL
+  Express.js
+  APIs
+  Insomnia
+  Sequelize
+  JSON
 
  ## Installation
  open IDE like vs code, run "npm i" in terminal, run command from schemas.sql file in SQL, and from the terminal "npm start" to connect to server. using an application like insomnia will allow you to hit each one of the end points in routes
@@ -9,18 +17,14 @@
  ## Usage
 
  to watch a Demo of this application click here: https://drive.google.com/file/d/19rpScxjXPtoF9-LhjPjrHv6Keuc_Ef9H/view
-
- what to expect:
- ![image]([https://github.com/CyndiCodes/ecommerceBackEnd/assets/135991739/b8fba5f6-97ee-4b5e-841e-6142a5b99225](https://drive.google.com/file/d/19rpScxjXPtoF9-LhjPjrHv6Keuc_Ef9H/view))
-
-
- ## Contributions
-  contact me directly via email
  
- ## Tests
-  none
+ ## Resources:
+
+ https://www.npmjs.com/package/mysql2
+ https://www.npmjs.com/package/sequelize
+ https://www.npmjs.com/package/dotenv
  
- ## Questions
+ ## Questions? Contact Me:
  
  https://github.com/CyndiCodes/ecommerceBackEnd 
 
